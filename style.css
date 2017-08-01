@@ -406,6 +406,10 @@ sup {
     * zoom: 1
 }
 
+.img-circle {
+    border-radius: 50%;
+}
+
 @media print {
     * {
         background: transparent !important;
