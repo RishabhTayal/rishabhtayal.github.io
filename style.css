@@ -273,7 +273,7 @@ body {
 
 a {
     text-decoration: none;
-    border-bottom: 1px dashed transparent;
+    border-bottom: 2px dashed transparent;
     transition: border-color 0.15s linear;
     -moz-transition: border-color 0.15s linear;
     -o-transition: border-color 0.15s linear;
@@ -306,6 +306,14 @@ sup {
     border-color: #A086D3
 }
 
+#linkedin {
+	color: #A086D3
+}
+
+#linkedin:hover {
+	border-color: #A086D3
+}
+
 #twitter {
     color: #00ACEE
 }
@@ -323,7 +331,7 @@ sup {
 }
 
 #resume {
-    color: #3B5998
+    color: #1287ed
 }
 
 #resume:hover {
